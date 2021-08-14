@@ -34,3 +34,6 @@ ND Region.xlsx : Daily New Deaths in each region. Starts from 03/09/2020
 
 ## Regions and Provinces in Morocco 
 Our files contain covid-19 data for the 12 regions and 75 provinces of Morocco. For more details go to [Administrative divisions of Morocco]( https://en.wikipedia.org/wiki/Administrative_divisions_of_Morocco#Current_administrative_divisions)
+
+
+Question? contact me on Twitter [@AmineAndam](https://twitter.com/AmineAndam) .
