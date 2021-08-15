@@ -5,6 +5,7 @@ Historical covid-19 data for regions and provinces are hard to find or they are 
 
 ![covidmaroc](/Covid-19.PNG)
 
+
 To scrape data we perform the following tasks :
 
 1-Get the source code of the website.
